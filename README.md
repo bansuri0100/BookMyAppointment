@@ -1,4 +1,6 @@
 # BookMyAppointment
+[Result Screenshots](https://github.com/bansuri0100/BookMyAppointment/blob/master/Screenshots.pptx)
+
 INTRODUCTION
 
 In today’s time every clinic or hospital faces the problem of managing appointments
